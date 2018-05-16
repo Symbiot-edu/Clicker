@@ -1,0 +1,25 @@
+Design
+------
+1. Where is the design ?
+2. In which software is the design done ?
+3. Is GD&T done on the design ?
+4. Can we first make a cardboard design ?
+
+Hardware
+--------
+1. Book for architecture
+2. WS108 (Include in arduino)
+3. Personalized learning (ed serach) - 
+
+Software
+--------
+1. Mukunth knows to host and maintain the cloud ?
+2. Python anywhere ?
+3. Pricing of python aywhere ?
+4. Estimate of the data ?
+5. Raid 1 and Raid 2
+6. EC2 instance
+7. Data will be stored multiple times
+8. Pentahoe (ETL)
+
+IIT coaching  
